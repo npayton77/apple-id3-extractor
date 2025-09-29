@@ -1,7 +1,7 @@
 
 **emsg_id3_decode_delay.py**
 
-Apple HLS → decode in-band ID3 + compute live “next track” delay
+# Apple HLS → decode in-band ID3 + compute live “next track” delay
 
 This script listens to an Apple HLS stream (fMP4/MP4 segments), extracts timed ID3 metadata carried inside emsg boxes (and the Apple UUID variant), converts PTS → wall-clock, and logs when the next track should be shown in your UI.
 
