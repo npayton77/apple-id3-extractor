@@ -1,5 +1,5 @@
 
-##**emsg_id3_decode_delay.py**
+**emsg_id3_decode_delay.py**
 
 Apple HLS → decode in-band ID3 + compute live “next track” delay
 
