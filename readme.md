@@ -1,6 +1,3 @@
-Here’s a README.md you can drop into the repo alongside emsg_id3_decode_delay.py 👇
-
-⸻
 
 emsg_id3_decode_delay.py
 
